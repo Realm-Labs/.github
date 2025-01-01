@@ -1,6 +1,6 @@
 <p align="left">
 <kbd>
-<img width="150px" src="">
+<img width="150px" src="03FE2BB6-57BE-4259-B538-2A04307904E4.jpeg">
 </kbd>
 </p>
 
