@@ -7,6 +7,6 @@
 <h1 align="left">Realm Labs</h1>
 
 <p align="left">
-<a href="https://discord.gg/"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
+<a href="https://discord.gg/echodev-971769908205604864"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
 </p>
 
