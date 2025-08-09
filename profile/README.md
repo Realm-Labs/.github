@@ -1,12 +1,12 @@
 <p align="left">
 <kbd>
-<img width="150px" src="03FE2BB6-57BE-4259-B538-2A04307904E4.jpeg">
+<img width="150px" src="logo.jpg">
 </kbd>
 </p>
 
 <h1 align="left">Realm Labs</h1>
 
 <p align="left">
-<a href="https://discord.gg/echodev-971769908205604864"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
+Realm Labs has been dedicated to providing users with fast, reliable, and lightweight services for evading censorship. The development base of the former 3kh0 X, a discontinued project aimed to succeed 3kh0 v4. Currently working on our latest flagship offering, Hagia. A simple, light, and fast web proxy, with minimal features. 
 </p>
 
